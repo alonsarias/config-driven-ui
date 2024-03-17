@@ -1,0 +1,16 @@
+{
+  "component": "Card",
+  "config": {},
+  "children": [
+    {
+      "component": "Heading",
+      "config": { "copy": "Hello World" },
+      "children": []
+    },
+    {
+      "component": "Button",
+      "config": { "copy": "Click Me!" },
+      "children": []
+    }
+  ]
+}
